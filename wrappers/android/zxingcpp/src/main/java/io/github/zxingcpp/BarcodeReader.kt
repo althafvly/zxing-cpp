@@ -14,7 +14,7 @@
 * limitations under the License.
 */
 
-package zxingcpp
+package io.github.zxingcpp
 
 import android.graphics.Bitmap
 import android.graphics.ImageFormat
