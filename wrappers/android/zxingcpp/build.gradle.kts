@@ -52,7 +52,7 @@ dependencies {
 }
 
 group = "io.github.zxing-cpp"
-version = "2.2.0"
+version = "2.2.1"
 
 val javadocJar by tasks.registering(Jar::class) {
     archiveClassifier.set("javadoc")
